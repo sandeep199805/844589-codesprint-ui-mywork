@@ -1,0 +1,19 @@
+My associate id:
+844589
+Other team members:
+844538, 123458, 123459, 123460, 123461
+Team lead:
+844549
+My Role in team:
+1. To develop Place Fitness Trainer Appointment page
+My development files:
+1. Place Fitness Trainer Appointment.html
+2.stylesheet.css
+I was strong in:
+1. HTML
+2. Css
+I was weak in:
+1. Javascript Validation
+Feedback:
+1. Good practice 
+© 2020 GitHub, Inc.
