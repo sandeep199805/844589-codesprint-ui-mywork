@@ -8,6 +8,7 @@ My Role in team:
 1. To develop Place Fitness Trainer Appointment page
 My development files:
 1. Place Fitness Trainer Appointment.html
+2.its css
 2.stylesheet.css
 I was strong in:
 1. HTML
